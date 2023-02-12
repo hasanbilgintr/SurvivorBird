@@ -1,0 +1,14 @@
+1-libbdx google aratarak https://libgdx.com/ girilir
+2-features tıklanır en altta Get Started tıklanır
+3-üstten step tıklanıp downloada tıklanır
+4-indirileneneçift tıklanıp proje adı girilir
+5-package name girilir  com.hasanbilgin.survivorbird gibi
+6-oyun classı girilir SurvivorBird girdik
+7-output folder yerine proje kurulu yerini klasör açtık onu seçtik
+8-android sdk ise herhangi projede üstten SDK Manager tıkla üstte yazan Android  Sdk Location: C:\Users\hasan\AppData\Local\Android\Sdk olan yeri aldık
+9-Supported Platforms ise protform seçtik sadece android seçtik.
+10-sonra generateye basılır
+11-altta build succesful çıkınca olan pencere direk kapatılır
+12-projedeki asset klasörü resimlerin olduğu klasördür open in -> explorer derseko klasör windowsta açılır istediğin resmi direk getirebilirsin
+not png ler arkayüzü olmazmış güzel birşey
+
